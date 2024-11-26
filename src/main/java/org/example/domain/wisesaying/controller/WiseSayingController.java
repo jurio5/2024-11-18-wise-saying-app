@@ -1,4 +1,4 @@
-package org.example.domain.wiseSaying.controller;
+package org.example.domain.wisesaying.controller;
 
 import org.example.WiseSayingSetting;
 
